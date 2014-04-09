@@ -7,6 +7,11 @@ GeneticAlgorithm.java - class which implements the genetic algorithm for N-Queen
 Writer.java - class which holds a string list to be written in a log file.
 TesterGA.java - class which runs the tests and invokes the creation of the log file. 
 
+How to use:
+
+Install JAVA JDK.
+Compile and run TesterGA.java along with its required classes in your preferred editor.
+
 Sample log file:
 
 GA-N4-0.001-1000.txt
